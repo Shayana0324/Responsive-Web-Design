@@ -3,7 +3,7 @@ Welcome to my collection of projects completed during the Responsive Web Design 
 
 The projects cover a wide range of topics essential for modern web design, including:
 
--Creating visually appealing and functional web pages.
--Implementing responsive design techniques to ensure optimal viewing experiences across various devices.
--Utilizing advanced CSS features like Flexbox and Grid for layout management.
--Enhancing user interaction through interactive forms and dynamic content.
+- Creating visually appealing and functional web pages.
+- Implementing responsive design techniques to ensure optimal viewing experiences across various devices.
+- Utilizing advanced CSS features like Flexbox and Grid for layout management.
+- Enhancing user interaction through interactive forms and dynamic content.
